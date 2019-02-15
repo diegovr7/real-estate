@@ -20,7 +20,7 @@
   <li>Smartwatch image by <a href="https://unsplash.com/@nkachanovskyyy">Nikita Kachanovsky
 </a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Smartwatch image by <a href="https://unsplash.com/@alexacea">Alexandru Acea</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Google Font <a href="https://fonts.google.com/specimen/Merriweather">Merriweather</a></li>
+  <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
  </ul>
  
 # Bugs and Issues
