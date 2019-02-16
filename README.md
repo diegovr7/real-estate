@@ -4,10 +4,10 @@
 Version 1.0.0
 
 # Live Preview
-View Live Preview
+<a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">View Live Preview</a>
 
 # Download Options
-Dowload latest version on Themes Bootstrap
+<a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Dowload latest version on Themes Bootstrap</a>
 Clone the repo: git clone https://github.com/diegovr7/real-estate.git
 
 # External Resources
