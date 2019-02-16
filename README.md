@@ -13,13 +13,15 @@ Version 1.0.0
  </ul>
 
 # External Resources
-Ionic Icons (https://ionicons.com/)
-Smartwatch image by Luke Chesser from Unsplash
-Smartwatch image by Luke Chesser from Unsplash
-Smartwatch image by Samuel Zeller from Unsplash
-Smartwatch image by Nikita Kachanovsky from Unsplash
-Smartwatch image by Alexandru Acea from Unsplash
-Google Font Titillium Web
+<ul>
+  <li>Ionic Icons (https://ionicons.com/)</li>
+  <li>Smartwatch image by Luke Chesser from Unsplash</li>
+  <li>Smartwatch image by Luke Chesser from Unsplash</li>
+  <li>Smartwatch image by Samuel Zeller from Unsplash</li>
+  <li>Smartwatch image by Nikita Kachanovsky from Unsplash</li>
+  <li>Smartwatch image by Alexandru Acea from Unsplash</li>
+  <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
+</li>
 
 # Bugs and Issues
 Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at <a href="https://themesbootstrap.com.mx/templates/real-estate-template.html">Themes Bootstrap</a> or send me an email to <a href="contact@themesbootstrap.com.mx">contact@themesbootstrap.com.mx</a>.
