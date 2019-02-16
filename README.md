@@ -7,8 +7,8 @@ Version 1.0.0
 <a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">View Live Preview</a>
 
 # Download Options
-<a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Dowload latest version on Themes Bootstrap</a>
-Clone the repo: git clone https://github.com/diegovr7/real-estate.git
+<p><a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Dowload latest version on Themes Bootstrap</a></p>
+<p>Clone the repo: git clone https://github.com/diegovr7/real-estate.git</p>
 
 # External Resources
 Ionic Icons (https://ionicons.com/)
