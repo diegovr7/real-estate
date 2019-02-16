@@ -15,11 +15,10 @@ Version 1.0.0
 # External Resources
 <ul>
   <li>Ionic Icons (https://ionicons.com/)</li>
-  <li>Smartwatch image by Luke Chesser from Unsplash</li>
-  <li>Smartwatch image by Luke Chesser from Unsplash</li>
-  <li>Smartwatch image by Samuel Zeller from Unsplash</li>
-  <li>Smartwatch image by Nikita Kachanovsky from Unsplash</li>
-  <li>Smartwatch image by Alexandru Acea from Unsplash</li>
+  <li>House 1 image by <a href="https://unsplash.com/@sphericity">Étienne Beauregard-Riverin</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>House 2 by <a href="https://unsplash.com/@jesseroberts">Jesse Roberts</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>House 3 by <a href="https://unsplash.com/@flopt">Flo Pappert
+</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
 </li>
 
