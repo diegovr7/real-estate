@@ -14,12 +14,9 @@
 # External Resources 
 <ul>
   <li>Ionic Icons (https://ionicons.com/)</li>
-  <li>Smartwatch image by <a href="https://unsplash.com/@lukechesser">Luke Chesser</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Smartwatch image by <a href="https://unsplash.com/@lukechesser">Luke Chesser</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Smartwatch image by <a href="https://unsplash.com/@samuelzeller">Samuel Zeller</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Smartwatch image by <a href="https://unsplash.com/@nkachanovskyyy">Nikita Kachanovsky
-</a> from <a href="https://unsplash.com/">Unsplash</a></li>
-  <li>Smartwatch image by <a href="https://unsplash.com/@alexacea">Alexandru Acea</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>House 1 image by <a href="https://unsplash.com/@lukechesser">Luke Chesser</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>House 2 image by <a href="https://unsplash.com/@jesseroberts">Jesse Roberts</a> from <a href="https://unsplash.com/">Unsplash</a></li>
+  <li>House 3 image by <a href="https://unsplash.com/@flopt">Flo Pappert</a> from <a href="https://unsplash.com/">Unsplash</a></li>
   <li>Google Font <a href="https://fonts.google.com/specimen/Titillium+Web">Titillium Web</a></li>
  </ul>
  
