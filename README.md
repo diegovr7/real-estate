@@ -7,8 +7,10 @@ Version 1.0.0
 <a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">View Live Preview</a>
 
 # Download Options
-<p><a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Dowload latest version on Themes Bootstrap</a></p>
-<p>Clone the repo: git clone https://github.com/diegovr7/real-estate.git</p>
+<ul>
+  <li><a href="https://themesbootstrap.com.mx/templates/real-estate-template/index.html">Dowload latest version on Themes Bootstrap</a></li>
+  <li>Clone the repo: git clone https://github.com/diegovr7/real-estate.git</li>
+ </ul>
 
 # External Resources
 Ionic Icons (https://ionicons.com/)
@@ -20,7 +22,7 @@ Smartwatch image by Alexandru Acea from Unsplash
 Google Font Titillium Web
 
 # Bugs and Issues
-Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at Themes Bootstrap or send me an email to contact@themesbootstrap.com.mx.
+Something is wrong with the theme? Let me know. I’ll help you out and fix the bug as soon as possible. Open a new issue here on GitHub, leave a comment on the template overview page at <a href="https://themesbootstrap.com.mx/templates/real-estate-template.html">Themes Bootstrap</a> or send me an email to <a href="contact@themesbootstrap.com.mx">contact@themesbootstrap.com.mx</a>.
 
 # About
 Themes Bootstrap is a collection of free to download Bootstrap themes and templates. All templates and themes on Themes Bootstrap are released under the MIT license, you can use them for any purpose, even for commercial projects.
