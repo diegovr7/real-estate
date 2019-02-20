@@ -280,6 +280,7 @@ Blog
     font-size: 18px;
     font-weight: 400;
     line-height: 1.6;
+    margin-bottom: 10px;
 }
 
 #blog a {
@@ -290,10 +291,6 @@ Blog
 
 .blog-img {
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
-}
-
-.blog-img img {
-    border-radius: 0.25rem;
 }
 
 .blog-info {
