@@ -1,10 +1,6 @@
 /*////////////////////////////////////////////////////////////////////////////////////////////////////
 
-<<<<<<< HEAD
-    Themes Bootstrap - Real Estate Template v1.0.0 (https://themesbootstrap.com.mx/templates/personal-portfolio-template.html)
-=======
     Themes Bootstrap - Real Estate Template v1.0.0 (https://themesbootstrap.com.mx/templates/real-estate-template.html)
->>>>>>> 33b128b9baff2de82d87d7d5c7528e0100824ac5
     Copyright 2019 Themes Bootstrap
     Licensed under MIT (https://github.com/diegovr7/real-estate/blob/master/LICENSE)
 
@@ -40,6 +36,18 @@ a:hover {
 
 section {
     padding: 80px 0;
+}
+
+section h2 {
+    font-size: 46px;
+    font-weight: 400;
+    letter-spacing: .1em;
+}
+
+section p {
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 1.8;
 }
 
 .block-title {
@@ -83,21 +91,6 @@ section {
     color: #2d3234;
 }
 
-<<<<<<< HEAD
-.template-button { 
-    position: fixed;
-    padding: 10px 30px;
-    border-radius: 5px;
-    background-color: #2d8eff;
-    color: #ffffff;
-    z-index: 9999;
-    bottom: 15px;
-    left: 15px;
-    display: inline-block;
-}
-
-=======
->>>>>>> 33b128b9baff2de82d87d7d5c7528e0100824ac5
 /*/////////////////////////////////////////
 Navbar
 ////////////////////////////////////////*/
@@ -213,18 +206,6 @@ Properties
    color: #222729; 
 }
 
-#properties h2 {
-    font-size: 46px;
-    font-weight: 400;
-    letter-spacing: .1em;
-}
-
-#properties p {
-    font-size: 20px;
-    font-weight: 200;
-    line-height: 1.8;
-}
-
 .property-container {
     position: relative;
     overflow: hidden;
@@ -287,6 +268,38 @@ Properties
     color: #ffffff;
 }
 
+/*/////////////////////////////////////////
+Blog
+////////////////////////////////////////*/
+
+#blog {
+    color: #333333;
+}
+
+#blog h4 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+#blog a {
+    font-size: 14px;
+    font-weight: 200;
+    color: #333333;
+}
+
+.blog-img {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
+}
+
+.blog-img img {
+    border-radius: 0.25rem;
+}
+
+.blog-info {
+    margin-top: 15px;
+    padding: 10px;
+}
 /*/////////////////////////////////////////
 Call to Action
 ////////////////////////////////////////*/
