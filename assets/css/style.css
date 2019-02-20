@@ -1,6 +1,10 @@
 /*////////////////////////////////////////////////////////////////////////////////////////////////////
 
+<<<<<<< HEAD
     Themes Bootstrap - Real Estate Template v1.0.0 (https://themesbootstrap.com.mx/templates/personal-portfolio-template.html)
+=======
+    Themes Bootstrap - Real Estate Template v1.0.0 (https://themesbootstrap.com.mx/templates/real-estate-template.html)
+>>>>>>> 33b128b9baff2de82d87d7d5c7528e0100824ac5
     Copyright 2019 Themes Bootstrap
     Licensed under MIT (https://github.com/diegovr7/real-estate/blob/master/LICENSE)
 
@@ -79,6 +83,7 @@ section {
     color: #2d3234;
 }
 
+<<<<<<< HEAD
 .template-button { 
     position: fixed;
     padding: 10px 30px;
@@ -91,6 +96,8 @@ section {
     display: inline-block;
 }
 
+=======
+>>>>>>> 33b128b9baff2de82d87d7d5c7528e0100824ac5
 /*/////////////////////////////////////////
 Navbar
 ////////////////////////////////////////*/
