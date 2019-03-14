@@ -34,7 +34,7 @@ Themes Bootstrap is a collection of free to download Bootstrap themes and templa
 
 <ul>
   <li>https://themesbootstrap.com.mx/</li>
-  <li>https://www.facebook.com/Themes-Bootstrap-2498913066817541/</li>
+  <li>https://www.facebook.com/themesbootstrapmx/</li>
  </ul>
  
 <p>Themes Bootstrap is a project created and maintained by <a href="http://templune.com/">Diego Velázquez</a>, at <a href="https://smartoasis.mx/">Smart Oasis</a></p>
